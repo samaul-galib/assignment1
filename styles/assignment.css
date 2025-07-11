@@ -23,10 +23,17 @@ body {
   color: #111;
   background: #f9fbff;
 }
-header {
+.head {
     display: flex;
     padding: 50px 120px 0 120px;
     justify-content: space-between;
+}
+
+.header{
+    background-image: url(../images/bg.png);
+    background-position: bottom right;
+    background-size: cover;
+
 }
 
 .container {
