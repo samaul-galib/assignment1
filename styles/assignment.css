@@ -175,7 +175,7 @@ button:hover {
   text-align: center;
   padding: 60px 20px;
   background-color: #fff;
-  margin: 150px 230px;
+  margin: 150px 230px 0 230px;
 }
 .focus h3{
     font-size: 45px;
@@ -189,7 +189,7 @@ button:hover {
 }
 
 .contact {
-  background: #f1f5ff;
+  background-color: #e5e5fc;
   padding: 60px 20px;
 }
 
